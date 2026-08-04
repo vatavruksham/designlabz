@@ -1,0 +1,16 @@
+{
+  "name": "DesignLabz — AI Graphic Design Tool",
+  "short_name": "DesignLabz",
+  "description": "Create logos, banners, and social media graphics with AI in minutes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf6f5",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
