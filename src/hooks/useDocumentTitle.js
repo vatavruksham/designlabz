@@ -1,12 +1,12 @@
 import { useEffect } from 'react';
 
-const DEFAULT_TITLE = 'DesignLabz — AI Graphic Design Tool';
+const DEFAULT_TITLE = 'DesignLabz - AI Graphic Design Tool';
 
 export default function useDocumentTitle(title, description) {
   useEffect(() => {
     const previousTitle = document.title;
 
-    document.title = title ? `${title} | DesignLabz` : DEFAULT_TITLE;
+    document.title = title ? `${title} - DesignLabz` : DEFAULT_TITLE;
 
     let metaDescription = document.querySelector('meta[name="description"]');
     const previousDescription = metaDescription

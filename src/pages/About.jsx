@@ -4,8 +4,7 @@ import AnimateOnScroll from '../components/ui/AnimateOnScroll';
 import SectionHeading from '../components/ui/SectionHeading';
 
 export default function About() {
-  useDocumentTitle(
-    'About',
+  useDocumentTitle('About',
     "Learn about DesignLabz's mission to make professional, on-brand graphic design accessible to everyone through AI."
   );
 

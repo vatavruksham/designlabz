@@ -6,8 +6,7 @@ import Button from '../components/ui/Button';
 import { ArrowRight } from 'lucide-react';
 
 export default function Features() {
-  useDocumentTitle(
-    'Features',
+  useDocumentTitle('Features',
     'Explore DesignLabz AI graphic design features — logo generation, banner layouts, brand colors, social packs, export, and templates.'
   );
 
