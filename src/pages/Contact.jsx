@@ -83,10 +83,10 @@ export default function Contact() {
               <span className="text-sm text-ink-soft">
                 Or email us directly at{' '}
                 <a
-                  href="mailto:support@designlabz.co"
+                  href="mailto:support@designlabz.online"
                   className="text-primary font-medium hover:underline"
                 >
-                  support@designlabz.co
+                  support@designlabz.online
                 </a>
               </span>
             </div>
